@@ -1,0 +1,7139 @@
+{
+  "$schema": "../../songs.schema.json",
+  "meta": {
+    "menuParent": "more",
+    "styles": ["single"],
+    "difficulties": [
+      {"key": "easy", "color": "#2795ff"},
+      {"key": "normal","color": "#3ec053"},
+      {"key": "hard","color": "#e2e511"},
+      {"key": "extreme","color": "#d42d1d"},
+      {"key": "exextreme","color": "#7d45fe"}
+    ],
+    "flags": ["slide"],
+    "lastUpdated": 	1769572717
+  },
+  "defaults": {
+    "style": "single",
+    "difficulties": ["easy", "normal", "hard", "extreme", "exextreme"],
+    "flags": ["slide"],
+    "lowerLvlBound": 1,
+    "upperLvlBound": 10
+  },
+  "i18n": {
+    "en": {
+      "name": "Project Diva: Arcade Future Tone",
+      "single": "Single",
+      "easy": "Easy",
+      "normal": "Normal",
+      "hard": "Hard",
+      "extreme": "Extreme",
+      "exextreme": "ExExtreme",
+      "slide": "Has Slides",
+      "$abbr": {
+        "easy": "EZ",
+        "normal": "NRM",
+        "hard": "HRD",
+        "extreme": "EX",
+        "exextreme": "EXEX"
+      }
+    }
+  },
+  "songs": [
+  {
+    "name": "ワールドイズマイン",
+    "name_translation": "The World is Mine",
+    "bpm": "165",
+    "artist": "ryo",
+    "jacket": "diva/2.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ありふれたせかいせいふく",
+    "name_translation": "Arifureta Sekai Seifuku",
+    "bpm": "150",
+    "artist": "ピノキオピー",
+    "jacket": "diva/248.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 1.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "アゲアゲアゲイン",
+    "name_translation": "Ageage Again",
+    "bpm": "175",
+    "artist": "Mitchie M",
+    "jacket": "diva/249.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "サヨナラ・グッバイ",
+    "name_translation": "Sayonara, Goodbye",
+    "bpm": "155",
+    "artist": "のぼる↑",
+    "jacket": "diva/402.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ヒビカセ",
+    "name_translation": "Hibikase",
+    "bpm": "140",
+    "artist": "ギガ",
+    "jacket": "diva/265.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "壊セ壊セ",
+    "name_translation": "Break It, Break It!",
+    "bpm": "116",
+    "artist": "E.L.V.N",
+    "jacket": "diva/734.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ねこみみスイッチ",
+    "name_translation": "NekoMimi Switch",
+    "bpm": "160",
+    "artist": "daniwell",
+    "jacket": "diva/95.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "DYE",
+    "bpm": "158",
+    "artist": "AVTechNO!",
+    "jacket": "diva/603.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Hello, Worker",
+    "bpm": "168",
+    "artist": "ハヤシケイ",
+    "jacket": "diva/730.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "初めての恋が終わる時",
+    "name_translation": "When First Love Ends",
+    "bpm": "150",
+    "artist": "ryo",
+    "jacket": "diva/37.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "東京テディベア",
+    "name_translation": "Tokyo Teddy Bear",
+    "bpm": "204",
+    "artist": "Neru",
+    "jacket": "diva/639.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Blackjack",
+    "bpm": "228",
+    "artist": "ゆちゃＰ",
+    "jacket": "diva/738.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Pane dhiria",
+    "bpm": "300",
+    "artist": "新城P",
+    "jacket": "diva/414.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Far Away",
+    "bpm": "130",
+    "artist": "kz",
+    "jacket": "diva/6.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 6,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "カラフル×セクシィ",
+    "name_translation": "Colorful × Sexy",
+    "bpm": "220",
+    "artist": "OSTER project",
+    "jacket": "diva/212.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Nyanyanyanyanyanyanya!",
+    "bpm": "142",
+    "artist": "daniwell",
+    "jacket": "diva/610.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "迷子ライフ",
+    "name_translation": "maigo life",
+    "bpm": "183",
+    "artist": "TOKOTOKO（西沢さんP）",
+    "jacket": "diva/423.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "深海少女",
+    "name_translation": "Deep Sea Girl",
+    "bpm": "100",
+    "artist": "ゆうゆ",
+    "jacket": "diva/219.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ルカルカ★ナイトフィーバー",
+    "name_translation": "Luka Luka ★ Night Fever",
+    "bpm": "160",
+    "artist": "samfree",
+    "jacket": "diva/213.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "鏡音八八花合戦",
+    "name_translation": "Kagamine HachiHachi Flower Fight",
+    "bpm": "166",
+    "artist": "モジャP",
+    "jacket": "diva/618.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "moon",
+    "bpm": "150",
+    "artist": "iroha(sasaki)",
+    "jacket": "diva/20.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "からくりピエロ",
+    "name_translation": "Clockwork Clown",
+    "bpm": "204",
+    "artist": "40mP",
+    "jacket": "diva/726.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "フランシスカ",
+    "name_translation": "Francisca",
+    "bpm": "194",
+    "artist": "ぢゅ＠メラゾーマP",
+    "jacket": "diva/428.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "StargazeR",
+    "bpm": "195",
+    "artist": "骨盤P",
+    "jacket": "diva/202.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "The secret garden",
+    "bpm": "133",
+    "artist": "神前 暁",
+    "jacket": "diva/22.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 6,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Mellow Yellow",
+    "bpm": "200",
+    "artist": "めりっさP",
+    "jacket": "diva/441.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "恋は戦争",
+    "name_translation": "Love is War",
+    "bpm": "175",
+    "artist": "ryo",
+    "jacket": "diva/1.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "恋スルＶＯＣ＠ＬＯＩＤ",
+    "name_translation": "VOC@LOID in Love",
+    "bpm": "130",
+    "artist": "OSTER project",
+    "jacket": "diva/16.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Innocence",
+    "bpm": "150",
+    "artist": "KazuP",
+    "jacket": "diva/64.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ルシッドドリーミング",
+    "name_translation": "Lucid Dreaming",
+    "bpm": "180",
+    "artist": "くぇ（ナイーヴP）",
+    "jacket": "diva/235.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "初音ミクの消失",
+    "name_translation": "The Disappearance of Hatsune Miku",
+    "bpm": "240",
+    "artist": "cosMo＠暴走P",
+    "jacket": "diva/32.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 10,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "PIANO*GIRL",
+    "bpm": "130",
+    "artist": "OSTER project",
+    "jacket": "diva/251.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ACUTE",
+    "bpm": "114",
+    "artist": "黒うさ",
+    "jacket": "diva/611.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "夢喰い白黒バク",
+    "name_translation": "Dream-Eating Monochrome Baku",
+    "bpm": "197",
+    "artist": "Nem",
+    "jacket": "diva/640.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "soundless voice",
+    "name_translation": "Soundless Voice",
+    "bpm": "82",
+    "artist": "やま△",
+    "jacket": "diva/737.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "深海シティアンダーグラウンド",
+    "name_translation": "Deep Sea City Underground",
+    "bpm": "170",
+    "artist": "田中B",
+    "jacket": "diva/234.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "トリコロール・エア・ライン",
+    "name_translation": "Tricolore Airline",
+    "bpm": "110",
+    "artist": "あつぞうくん",
+    "jacket": "diva/239.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ゆめゆめ",
+    "name_translation": "Yumeyume",
+    "bpm": "160",
+    "artist": "DECO*27",
+    "jacket": "diva/225.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Hand in Hand",
+    "bpm": "127",
+    "artist": "kz",
+    "jacket": "diva/832.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 1,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "LIKE THE WIND",
+    "bpm": "124",
+    "artist": "Kusemono/SWANTONE",
+    "jacket": "diva/104.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Knife",
+    "bpm": "110",
+    "artist": "れるりり",
+    "jacket": "diva/731.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 1.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ぎずも",
+    "name_translation": "Gizmo",
+    "bpm": "136",
+    "artist": "uguis08",
+    "jacket": "diva/442.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "崩壊歌姫 -disruptive diva-",
+    "name_translation": "Disruptive Diva",
+    "bpm": "170",
+    "artist": "マチゲリータ",
+    "jacket": "diva/403.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "on the rocks",
+    "name_translation": "On The Rocks",
+    "bpm": "150",
+    "artist": "OSTER project",
+    "jacket": "diva/226.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "花舞月詠譚",
+    "name_translation": "Hanamai Tsukuyomi Tan",
+    "bpm": "183",
+    "artist": "Hoskey",
+    "jacket": "diva/427.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "指切り",
+    "name_translation": "Pinky Swear",
+    "bpm": "195",
+    "artist": "すこっぷ",
+    "jacket": "diva/725.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 1.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ネガポジ＊コンティニューズ",
+    "name_translation": "Negaposi＊Continues",
+    "bpm": "220",
+    "artist": "sasakure.UK",
+    "jacket": "diva/629.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 10,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "二次元ドリームフィーバー",
+    "name_translation": "2D Dream Fever",
+    "bpm": "180",
+    "artist": "PolyphonicBranch",
+    "jacket": "diva/723.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 10,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "インタビュア",
+    "name_translation": "Interviewer",
+    "bpm": "125",
+    "artist": "クワガタP",
+    "jacket": "diva/243.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "キャットフード",
+    "name_translation": "Cat Food",
+    "bpm": "174",
+    "artist": "doriko",
+    "jacket": "diva/600.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "金の聖夜霜雪に朽ちて",
+    "name_translation": "Requiem for the Phantasma",
+    "bpm": "185",
+    "artist": "デッドボールP",
+    "jacket": "diva/29.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Weekender Girl",
+    "bpm": "132",
+    "artist": "kz",
+    "jacket": "diva/626.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "はじめまして地球人さん",
+    "name_translation": "Nice To Meet You, Mr. Earthling",
+    "bpm": "175",
+    "artist": "ピノキオピー",
+    "jacket": "diva/250.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "結んで開いて羅刹と骸",
+    "name_translation": "Close and Open, Demons and The Dead",
+    "bpm": "127",
+    "artist": "ハチ",
+    "jacket": "diva/90.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "砂の惑星 feat.初音ミク",
+    "name_translation": "Suna no Wakusei feat. Hatsune Miku",
+    "bpm": "190",
+    "artist": "ハチ",
+    "jacket": "diva/267.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "番凩",
+    "name_translation": "Wintry Winds",
+    "bpm": "102",
+    "artist": "仕事してP",
+    "jacket": "diva/94.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "多重未来のカルテット -Quartet Theme-",
+    "name_translation": "Quartet of Multiple Futures -Quartet Theme-",
+    "bpm": "150",
+    "artist": "Kusemono/SWANTONE",
+    "jacket": "diva/102.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "どうしてこうなった",
+    "name_translation": "How'd It Get To Be Like This?",
+    "bpm": "180",
+    "artist": "うどんゲルゲ",
+    "jacket": "diva/409.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "裏表ラバーズ",
+    "name_translation": "Two-Sided Lovers",
+    "bpm": "159",
+    "artist": "wowaka",
+    "jacket": "diva/82.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 10,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 10,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "デンパラダイム",
+    "name_translation": "Denparadigm",
+    "bpm": "175",
+    "artist": "lumo",
+    "jacket": "diva/435.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 10,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 10,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Packaged",
+    "bpm": "125",
+    "artist": "kz",
+    "jacket": "diva/10.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ODDS&ENDS",
+    "name_translation": "Odds & Ends",
+    "bpm": "192",
+    "artist": "ryo",
+    "jacket": "diva/625.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Tell Your World",
+    "bpm": "150",
+    "artist": "kz",
+    "jacket": "diva/638.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 1,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "炉心融解",
+    "name_translation": "Roshin Yukai",
+    "bpm": "165",
+    "artist": "iroha(sasaki)",
+    "jacket": "diva/54.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "マージナル",
+    "name_translation": "Marginal",
+    "bpm": "190",
+    "artist": "OSTER project",
+    "jacket": "diva/12.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ブラックゴールド",
+    "name_translation": "Black Gold",
+    "bpm": "124",
+    "artist": "otetsu",
+    "jacket": "diva/222.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ワールズエンド・ダンスホール -Live Dance Edition-",
+    "name_translation": "World's End Dance Hall -Live Dance Edition-",
+    "bpm": "171",
+    "artist": "wowaka",
+    "jacket": "diva/220.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 10,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 10,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "迷的サイバネティックス",
+    "name_translation": "Meiteki Cybernetics",
+    "bpm": "290",
+    "artist": "otetsu",
+    "jacket": "diva/208.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Holy Star -2010 DIVA mix-",
+    "bpm": "149",
+    "artist": "おっさんP（K's Sound Project）",
+    "jacket": "diva/205.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Absolunote",
+    "bpm": "189",
+    "artist": "Lemm",
+    "jacket": "diva/236.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "偶像無線(Game edit)",
+    "name_translation": "Idol Radio (Game Edit)",
+    "bpm": "175",
+    "artist": "Daisuke Ohnuma(大福P)",
+    "jacket": "diva/443.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "骸骨楽団とリリア",
+    "name_translation": "Gaikotsu Gakudan to Riria",
+    "bpm": "130",
+    "artist": "トーマ",
+    "jacket": "diva/255.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ピアノ×フォルテ×スキャンダル",
+    "name_translation": "Piano × Forte × Scandal",
+    "bpm": "135",
+    "artist": "OSTER project",
+    "jacket": "diva/262.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "SPiCa -39's Giving Day Edition-",
+    "bpm": "162",
+    "artist": "とく",
+    "jacket": "diva/79.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "DECORATOR",
+    "name_translation": "Decorator",
+    "bpm": "143",
+    "artist": "kz",
+    "jacket": "diva/739.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ファインダー(DSLR remix - re:edit)",
+    "name_translation": "Finder (DSLR remix - re:edit)",
+    "bpm": "150",
+    "artist": "kz",
+    "jacket": "diva/39.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Magical Sound Shower",
+    "bpm": "120",
+    "artist": "Kusemono/SWANTONE",
+    "jacket": "diva/101.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "巴里映画少女",
+    "name_translation": "Paris Cinema Girl",
+    "bpm": "130",
+    "artist": "apfel note",
+    "jacket": "diva/433.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ブラック★ロックシューター",
+    "name_translation": "Black★Rock Shooter",
+    "bpm": "165",
+    "artist": "ryo",
+    "jacket": "diva/630.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "えれくとりっく・えんじぇぅ",
+    "name_translation": "Electric Angel",
+    "bpm": "150",
+    "artist": "ヤスオ",
+    "jacket": "diva/30.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 1.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Ievan Polkka",
+    "bpm": "119",
+    "artist": "Otomania",
+    "jacket": "diva/27.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "フキゲンワルツ",
+    "name_translation": "Grumpy Waltz",
+    "bpm": "210",
+    "artist": "OSTER project",
+    "jacket": "diva/13.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "イヤイヤ星人",
+    "name_translation": "Iya Iya Seijin",
+    "bpm": "150",
+    "artist": "イヤイヤP",
+    "jacket": "diva/419.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "初音ミクの激唱",
+    "name_translation": "The Intense Voice of Hatsune Miku",
+    "bpm": "200",
+    "artist": "Storyteller",
+    "jacket": "diva/42.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 10,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 10,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "アドレサンス",
+    "name_translation": "Adolescence",
+    "bpm": "148",
+    "artist": "Dios/シグナルP",
+    "jacket": "diva/260.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 1.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "メランコリック",
+    "name_translation": "Melancholic",
+    "bpm": "140",
+    "artist": "Junky",
+    "jacket": "diva/615.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Fire◎Flower",
+    "bpm": "153",
+    "artist": "halyosy & is",
+    "jacket": "diva/602.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Dear cocoa girls",
+    "bpm": "180",
+    "artist": "神前 暁",
+    "jacket": "diva/23.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Change me",
+    "name_translation": "Change Me",
+    "bpm": "135",
+    "artist": "shu-t",
+    "jacket": "diva/59.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "オオカミガール",
+    "name_translation": "Wolf Girl",
+    "bpm": "165",
+    "artist": "くらP",
+    "jacket": "diva/410.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "erase or zero",
+    "name_translation": "Erase or Zero",
+    "bpm": "138",
+    "artist": "クリスタルP",
+    "jacket": "diva/728.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ハジメテノオト",
+    "name_translation": "The First Sound",
+    "bpm": "150",
+    "artist": "malo",
+    "jacket": "diva/65.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ミラクルペイント",
+    "name_translation": "Miracle Paint",
+    "bpm": "215",
+    "artist": "OSTER project",
+    "jacket": "diva/14.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "そいやっさぁ!!",
+    "name_translation": "Soiyassa!!",
+    "bpm": "183",
+    "artist": "囚人P",
+    "jacket": "diva/425.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ダブルラリアット",
+    "name_translation": "Double Lariat",
+    "bpm": "150",
+    "artist": "アゴアニキ",
+    "jacket": "diva/57.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Just Be Friends",
+    "bpm": "128",
+    "artist": "Dixie Flatline",
+    "jacket": "diva/66.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "秘密警察",
+    "name_translation": "Secret Police",
+    "bpm": "200",
+    "artist": "ぶりる",
+    "jacket": "diva/607.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "39",
+    "bpm": "175",
+    "artist": "sasakure.UK & DECO*27",
+    "jacket": "diva/232.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ステップフォワード",
+    "name_translation": "Step Forward",
+    "bpm": "198",
+    "artist": "Chesa",
+    "jacket": "diva/438.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "え？あぁ、そう。",
+    "name_translation": "Hm? Ah, Yes.",
+    "bpm": "192",
+    "artist": "papiyon",
+    "jacket": "diva/605.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ネトゲ廃人シュプレヒコール",
+    "name_translation": "The MMORPG Addict's Anthem",
+    "bpm": "175",
+    "artist": "さつき が てんこもり",
+    "jacket": "diva/617.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "magnet",
+    "name_translation": "Magnet",
+    "bpm": "150",
+    "artist": "minato（流星P）",
+    "jacket": "diva/44.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ハト",
+    "name_translation": "White Dove",
+    "bpm": "200",
+    "artist": "秦野P",
+    "jacket": "diva/19.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ハイスクール Days - DIVA EDIT",
+    "name_translation": "High School Days - DIVA EDIT",
+    "bpm": "183",
+    "artist": "U-ji（霊長類P）",
+    "jacket": "diva/424.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "月向うまでのトラベル",
+    "name_translation": "Travel to The Other Side of The Moon",
+    "bpm": "140",
+    "artist": "vilP",
+    "jacket": "diva/436.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ぽっぴっぽー",
+    "name_translation": "Po Pi Po",
+    "bpm": "150",
+    "artist": "ラマーズP",
+    "jacket": "diva/49.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 10,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "1925",
+    "bpm": "145",
+    "artist": "Ｔ-ＰＯＣＫＥＴ",
+    "jacket": "diva/263.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "天樂",
+    "name_translation": "Tengaku",
+    "bpm": "232",
+    "artist": "ゆうゆ",
+    "jacket": "diva/619.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Sadistic.Music∞Factory",
+    "bpm": "165",
+    "artist": "cosMo＠暴走P",
+    "jacket": "diva/623.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 10,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Rosary Pale",
+    "bpm": "148",
+    "artist": "新城P",
+    "jacket": "diva/224.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "システマティック・ラヴ",
+    "name_translation": "Systematic Love",
+    "bpm": "136",
+    "artist": "かめりあ",
+    "jacket": "diva/240.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "神曲",
+    "name_translation": "God-Tier Tune",
+    "bpm": "163",
+    "artist": "ピノキオピー",
+    "jacket": "diva/609.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "アウト オブ エデン",
+    "name_translation": "Out of Eden",
+    "bpm": "109",
+    "artist": "Kouhei (K's Sound Project)",
+    "jacket": "diva/223.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "カンタレラ",
+    "name_translation": "Cantarella",
+    "bpm": "144",
+    "artist": "WhiteFlame（黒うさP）",
+    "jacket": "diva/58.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ロミオとシンデレラ",
+    "name_translation": "Romeo and Cinderella",
+    "bpm": "170",
+    "artist": "doriko",
+    "jacket": "diva/43.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "リモコン",
+    "name_translation": "Remote Controller",
+    "bpm": "165",
+    "artist": "じーざす",
+    "jacket": "diva/620.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "荒野と森と魔法の歌",
+    "name_translation": "A Song of Wastelands, Forests, and Magic",
+    "bpm": "140",
+    "artist": "トラボルタ",
+    "jacket": "diva/17.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Starlite★Lydian",
+    "bpm": "146",
+    "artist": "Masaki",
+    "jacket": "diva/411.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "愛言葉",
+    "name_translation": "Aikotoba",
+    "bpm": "136",
+    "artist": "DECO*27",
+    "jacket": "diva/48.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 1,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "雨のちSweet*Drops",
+    "name_translation": "Rain With A Chance of Sweet*Drops",
+    "bpm": "135",
+    "artist": "OSTER project",
+    "jacket": "diva/11.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "嘘つきベティ",
+    "name_translation": "Betty The Liar",
+    "bpm": "160",
+    "artist": "PolyphonicBranch",
+    "jacket": "diva/421.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Sweet Devil",
+    "bpm": "132",
+    "artist": "八王子P",
+    "jacket": "diva/642.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "サイハテ",
+    "name_translation": "Saihate",
+    "bpm": "150",
+    "artist": "小林オニキス",
+    "jacket": "diva/50.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "君の体温",
+    "name_translation": "Kimi no Taion",
+    "bpm": "220",
+    "artist": "クワガタP",
+    "jacket": "diva/261.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Dear",
+    "bpm": "135",
+    "artist": "19-iku-",
+    "jacket": "diva/45.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ピンクムーン",
+    "name_translation": "Pink Moon",
+    "bpm": "240",
+    "artist": "もじょP",
+    "jacket": "diva/209.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "スキキライ",
+    "name_translation": "Love-Hate",
+    "bpm": "120",
+    "artist": "HoneyWorks",
+    "jacket": "diva/727.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "VOiCE -DIVA　MIX-",
+    "bpm": "150",
+    "artist": "ラヴリーP",
+    "jacket": "diva/51.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "LOL -lots of laugh-",
+    "bpm": "138",
+    "artist": "KeN",
+    "jacket": "diva/253.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ほんとは分かってる",
+    "name_translation": "I Really Do Understand",
+    "bpm": "150",
+    "artist": "フナコシP",
+    "jacket": "diva/63.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "歌に形はないけれど",
+    "name_translation": "Though My Song Has No Form",
+    "bpm": "98",
+    "artist": "doriko",
+    "jacket": "diva/81.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Leia",
+    "bpm": "190",
+    "artist": "ゆよゆっぺ",
+    "jacket": "diva/215.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ふたりで。",
+    "name_translation": "The Two of Us - Futaride",
+    "bpm": "180",
+    "artist": "ねこぼーろ",
+    "jacket": "diva/233.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "slump",
+    "bpm": "170",
+    "artist": "しばいぬ",
+    "jacket": "diva/430.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ペリコ・スペースシッパー",
+    "name_translation": "Perico Space Shipper",
+    "bpm": "150",
+    "artist": "ワンカップP",
+    "jacket": "diva/412.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "二息歩行",
+    "name_translation": "Two Breaths Walking",
+    "bpm": "180",
+    "artist": "DECO*27",
+    "jacket": "diva/736.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "マスターオブパペッツ",
+    "name_translation": "Master of Puppets",
+    "bpm": "250",
+    "artist": "デスおはぎ",
+    "jacket": "diva/413.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "MEGANE",
+    "name_translation": "Glasses",
+    "bpm": "120",
+    "artist": "Ultra-Noob",
+    "jacket": "diva/614.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ナイトメア☆パーティーナイト",
+    "name_translation": "Nightmare ☆ Party Night",
+    "bpm": "175",
+    "artist": "くちばし",
+    "jacket": "diva/405.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "リンちゃんなう！",
+    "name_translation": "Rin-chan Now!",
+    "bpm": "200",
+    "artist": "オワタP",
+    "jacket": "diva/641.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "忘却心中",
+    "name_translation": "Lover's Suicide Oblivion",
+    "bpm": "180",
+    "artist": "OPA",
+    "jacket": "diva/89.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "*ハロー、プラネット。(I.M.PLSE-EDIT)",
+    "name_translation": "*Hello, Planet.",
+    "bpm": "150",
+    "artist": "sasakure.UK",
+    "jacket": "diva/83.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ナイト・オブ・ライト",
+    "name_translation": "Knight of Light",
+    "bpm": "192",
+    "artist": "いーえるP @ TinySymphony",
+    "jacket": "diva/440.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "右肩の蝶",
+    "name_translation": "Butterfly on Your Right Shoulder",
+    "bpm": "140",
+    "artist": "のりぴー",
+    "jacket": "diva/56.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "カラフル×メロディ",
+    "name_translation": "Colorful × Melody",
+    "bpm": "185",
+    "artist": "OSTER project",
+    "jacket": "diva/41.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "孤独の果て -extend edition-",
+    "name_translation": "Solitude's End -extend edition-",
+    "bpm": "180",
+    "artist": "光収容",
+    "jacket": "diva/85.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "タイムリミット",
+    "name_translation": "Time Limit",
+    "bpm": "140",
+    "artist": "North-T",
+    "jacket": "diva/204.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Nostalogic",
+    "bpm": "140",
+    "artist": "yuukiss",
+    "jacket": "diva/621.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "あなたの歌姫",
+    "name_translation": "I'm Your Diva",
+    "bpm": "89",
+    "artist": "azuma",
+    "jacket": "diva/31.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "片想いサンバ",
+    "name_translation": "One-Sided Love Samba",
+    "bpm": "300",
+    "artist": "オワタP",
+    "jacket": "diva/401.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Yellow",
+    "bpm": "127",
+    "artist": "kz",
+    "jacket": "diva/40.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "巨大少女",
+    "name_translation": "Gigantic Girl",
+    "bpm": "150",
+    "artist": "40mP",
+    "jacket": "diva/53.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "AFTER BURNER",
+    "bpm": "173",
+    "artist": "Hal",
+    "jacket": "diva/103.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "桜ノ雨",
+    "name_translation": "Sakura no Ame",
+    "bpm": "76",
+    "artist": "halyosy",
+    "jacket": "diva/710.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "なりすましゲンガー",
+    "name_translation": "Doubleganger",
+    "bpm": "178",
+    "artist": "KulfiQ",
+    "jacket": "diva/733.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "So much loving you★ -DIVA Edit-",
+    "name_translation": "So Much Loving You★ -DIVA Edit-",
+    "bpm": "276",
+    "artist": "古墳P",
+    "jacket": "diva/416.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "恋色病棟",
+    "name_translation": "Love-Colored Ward",
+    "bpm": "175",
+    "artist": "OSTER project",
+    "jacket": "diva/52.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "スノーマン",
+    "name_translation": "Snowman",
+    "bpm": "127",
+    "artist": "halyosy",
+    "jacket": "diva/244.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 1.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "さあ、どっち？",
+    "name_translation": "Now Choose",
+    "bpm": "220",
+    "artist": "ひなた春花",
+    "jacket": "diva/418.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ZIGG-ZAGG",
+    "bpm": "138",
+    "artist": "Junky",
+    "jacket": "diva/404.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "恋ノート////",
+    "name_translation": "Love's note",
+    "bpm": "125",
+    "artist": "ジェバンニP+ハットリP",
+    "jacket": "diva/407.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "透明水彩",
+    "name_translation": "Transparent Watercolors",
+    "bpm": "184",
+    "artist": "ヤスオ",
+    "jacket": "diva/210.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "白い雪のプリンセスは",
+    "name_translation": "The Snow White Princess is...",
+    "bpm": "171",
+    "artist": "のぼる↑",
+    "jacket": "diva/218.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ほしをつくるひと",
+    "name_translation": "The Star Maker",
+    "bpm": "234",
+    "artist": "MazoP",
+    "jacket": "diva/415.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "パズル",
+    "name_translation": "Puzzle",
+    "bpm": "85",
+    "artist": "クワガタP",
+    "jacket": "diva/86.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 1.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "千年の独奏歌 (DIVA edit)",
+    "name_translation": "Thousand Year Solo (DIVA Edit)",
+    "bpm": "183",
+    "artist": "yanagi",
+    "jacket": "diva/88.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "メテオ",
+    "name_translation": "Meteor",
+    "bpm": "140",
+    "artist": "じょん",
+    "jacket": "diva/722.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 1,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Dreaming Leaf -ユメミルコトノハ-",
+    "name_translation": "Dreaming Leaf",
+    "bpm": "170",
+    "artist": "OSTER project",
+    "jacket": "diva/15.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "SING＆SMILE",
+    "name_translation": "SING&SMILE",
+    "bpm": "175",
+    "artist": "Re:nG",
+    "jacket": "diva/238.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ココロ",
+    "name_translation": "Kokoro",
+    "bpm": "150",
+    "artist": "トラボルタ",
+    "jacket": "diva/55.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "FREELY TOMORROW",
+    "name_translation": "Freely Tomorrow",
+    "bpm": "129",
+    "artist": "Mitchie M",
+    "jacket": "diva/628.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "アマツキツネ",
+    "name_translation": "Amatsu Kitsune",
+    "bpm": "190",
+    "artist": "まらしぃ",
+    "jacket": "diva/254.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Star Story",
+    "bpm": "70",
+    "artist": "kz",
+    "jacket": "diva/8.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 1.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 7,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "那由他の彼方まで",
+    "name_translation": "To the End of Infinity",
+    "bpm": "198",
+    "artist": "釣り師P",
+    "jacket": "diva/84.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "唐傘さんが通る",
+    "name_translation": "Here Comes Karakasa-san",
+    "bpm": "175",
+    "artist": "イヤイヤP",
+    "jacket": "diva/432.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "テレカクシ思春期",
+    "name_translation": "Terekakushi Shishunki",
+    "bpm": "170",
+    "artist": "HoneyWorks",
+    "jacket": "diva/246.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "千本桜 -F edition-",
+    "name_translation": "Senbonzakura -F edition-",
+    "bpm": "154",
+    "artist": "黒うさ",
+    "jacket": "diva/637.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "アカツキアライヴァル",
+    "name_translation": "Akatsuki Arrival",
+    "bpm": "135",
+    "artist": "Last Note．",
+    "jacket": "diva/732.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "No Logic",
+    "bpm": "120",
+    "artist": "ジミーサムP",
+    "jacket": "diva/228.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ジェミニ",
+    "name_translation": "Gemini",
+    "bpm": "150",
+    "artist": "Dixie Flatline",
+    "jacket": "diva/47.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "孤独の果て",
+    "name_translation": "Solitude's End",
+    "bpm": "120",
+    "artist": "光収容",
+    "jacket": "diva/203.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "break;down",
+    "bpm": "183",
+    "artist": "hmtk",
+    "jacket": "diva/426.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ネコミミアーカイブ",
+    "name_translation": "NekoMimi Archive",
+    "bpm": "124",
+    "artist": "糞田舎P",
+    "jacket": "diva/221.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "悠久-Song of Eternity-DIVAMIX-",
+    "name_translation": "Song of Eternity -DIVAMIX-",
+    "bpm": "100",
+    "artist": "てぃあら",
+    "jacket": "diva/429.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 1,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "melody...",
+    "bpm": "142",
+    "artist": "mikuru396",
+    "jacket": "diva/206.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "妄想スケッチ",
+    "name_translation": "Mousou Sketch",
+    "bpm": "174",
+    "artist": "40mP",
+    "jacket": "diva/227.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "モノクロ∞ブルースカイ",
+    "name_translation": "Monochrome∞Blue Sky",
+    "bpm": "130",
+    "artist": "のぼる↑",
+    "jacket": "diva/601.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ストロボナイツ",
+    "name_translation": "Strobe Nights",
+    "bpm": "125",
+    "artist": "kz",
+    "jacket": "diva/7.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "サンドリヨン",
+    "name_translation": "Cendrillon",
+    "bpm": "148",
+    "artist": "Dios/シグナルP",
+    "jacket": "diva/259.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 1.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "SYMPHONIC DIVE - DIVA edit -",
+    "name_translation": "SYMPHONIC DIVE - DIVA FT edit -",
+    "bpm": "155",
+    "artist": "Re:nG",
+    "jacket": "diva/408.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "いろは唄",
+    "name_translation": "Iroha Uta",
+    "bpm": "172",
+    "artist": "銀サク",
+    "jacket": "diva/211.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "saturation",
+    "name_translation": "Saturation",
+    "bpm": "137",
+    "artist": "fatP",
+    "jacket": "diva/207.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Equation+**",
+    "bpm": "140",
+    "artist": "ぽわぽわP",
+    "jacket": "diva/420.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ブラックノートに溺れさせて",
+    "name_translation": "Let Me Lose Myself in The Black Note ",
+    "bpm": "175",
+    "artist": "Shun13",
+    "jacket": "diva/437.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "どういうことなの！？",
+    "name_translation": "What Do You Mean!?",
+    "bpm": "175",
+    "artist": "くちばしP",
+    "jacket": "diva/608.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "スイートマジック",
+    "name_translation": "Sweet Magic",
+    "bpm": "123",
+    "artist": "Junky",
+    "jacket": "diva/247.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 1,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "WORLD'S END UMBRELLA",
+    "name_translation": "World's End Umbrella",
+    "bpm": "180",
+    "artist": "ハチ",
+    "jacket": "diva/627.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "メルト",
+    "name_translation": "Melt",
+    "bpm": "170",
+    "artist": "ryo",
+    "jacket": "diva/5.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "shake it！",
+    "name_translation": "shake it!",
+    "bpm": "130",
+    "artist": "emon",
+    "jacket": "diva/257.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "その一秒スローモーション",
+    "name_translation": "That One Second in Slow Motion",
+    "bpm": "165",
+    "artist": "ryo",
+    "jacket": "diva/3.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "右肩の蝶 -39's Giving Day Edition-",
+    "name_translation": "Butterfly on Your Right Shoulder -39's Giving Day Edition-",
+    "bpm": "140",
+    "artist": "のりぴー",
+    "jacket": "diva/214.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "サマーアイドル",
+    "name_translation": "Summer Idol",
+    "bpm": "180",
+    "artist": "OSTER project",
+    "jacket": "diva/624.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Promise",
+    "bpm": "138",
+    "artist": "samfree",
+    "jacket": "diva/62.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "アンハッピーリフレイン",
+    "name_translation": "Unhappy Refrain",
+    "bpm": "205",
+    "artist": "wowaka",
+    "jacket": "diva/616.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "トリノコシティ",
+    "name_translation": "Torinokocity",
+    "bpm": "135",
+    "artist": "40mP",
+    "jacket": "diva/604.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ジュゲムシーケンサー",
+    "name_translation": "Jugemu Sequencer",
+    "bpm": "200",
+    "artist": "ぼーかりおどP（noa）",
+    "jacket": "diva/417.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 10,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Gothic and Loneliness ～I'm the very DIVA～",
+    "bpm": "157",
+    "artist": "なるしまたかし",
+    "jacket": "diva/431.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 10,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Palette",
+    "bpm": "183",
+    "artist": "ゆよゆっぺ",
+    "jacket": "diva/87.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "キミに",
+    "name_translation": "Kimi Ni",
+    "bpm": "192",
+    "artist": "teaeye",
+    "jacket": "diva/439.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ゴーストルール",
+    "name_translation": "Ghost Rule",
+    "bpm": "210",
+    "artist": "Naoki Itai (MUSIC FOR MUSIC)",
+    "jacket": "diva/266.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "みくみく菌にご注意♪",
+    "name_translation": "Beware of the Miku Miku Germs♪",
+    "bpm": "92",
+    "artist": "はやや",
+    "jacket": "diva/21.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "星屑ユートピア",
+    "name_translation": "Stardust Utopia",
+    "bpm": "240",
+    "artist": "otetsu",
+    "jacket": "diva/201.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "いのちの歌",
+    "name_translation": "Song of Life",
+    "bpm": "80",
+    "artist": "トラボルタ",
+    "jacket": "diva/18.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 1.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 6,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ローリンガール",
+    "name_translation": "Rolling Girl",
+    "bpm": "195",
+    "artist": "wowaka",
+    "jacket": "diva/91.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "夢の続き",
+    "name_translation": "Continuing Dream",
+    "bpm": "160",
+    "artist": "Dixie Flatline",
+    "jacket": "diva/631.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 6.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "こっち向いて Baby",
+    "name_translation": "Look This Way, Baby",
+    "bpm": "185",
+    "artist": "ryo",
+    "jacket": "diva/38.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "サウンド",
+    "name_translation": "Sound",
+    "bpm": "150",
+    "artist": "baker",
+    "jacket": "diva/60.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Starduster",
+    "bpm": "82",
+    "artist": "ジミーサムP",
+    "jacket": "diva/92.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 6.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ラブリスト更新中？",
+    "name_translation": "Updating My Love List?",
+    "bpm": "90",
+    "artist": "並木晃一",
+    "jacket": "diva/25.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "パラジクロロベンゼン",
+    "name_translation": "Paradichlorobenzene",
+    "bpm": "183",
+    "artist": "オワタP",
+    "jacket": "diva/93.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "天鵞絨アラベスク",
+    "name_translation": "Velvet Arabesque",
+    "bpm": "120",
+    "artist": "並木晃一",
+    "jacket": "diva/24.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 1.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 4.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 6.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ひねくれ者",
+    "name_translation": "Jaded",
+    "bpm": "70",
+    "artist": "ryo",
+    "jacket": "diva/4.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 1,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "キップル・インダストリー",
+    "name_translation": "Kipple Industry, Inc.",
+    "bpm": "205",
+    "artist": "millstones",
+    "jacket": "diva/231.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "数多の舞 -Dance of many-",
+    "name_translation": "Dance of Many",
+    "bpm": "183",
+    "artist": "koushirou（卑屈P）",
+    "jacket": "diva/422.jpg",
+    "charts": [
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "エレクトロサチュレイタ",
+    "name_translation": "Electrosaturator",
+    "bpm": "141",
+    "artist": "tilt-six",
+    "jacket": "diva/241.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Stay with me",
+    "bpm": "126",
+    "artist": "shu-t",
+    "jacket": "diva/622.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Last Night, Good Night",
+    "bpm": "84",
+    "artist": "kz",
+    "jacket": "diva/9.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 6.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "from Y to Y",
+    "bpm": "98",
+    "artist": "ジミーサムP",
+    "jacket": "diva/46.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "積乱雲グラフィティ",
+    "name_translation": "Sekiranun Graffiti",
+    "bpm": "183",
+    "artist": "ryo",
+    "jacket": "diva/96.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "こちら、幸福安心委員会です。",
+    "name_translation": "This is the Happiness and Peace of Mind Committee",
+    "bpm": "128",
+    "artist": "うたたP",
+    "jacket": "diva/729.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "クローバー・クラブ",
+    "name_translation": "Clover♣Club",
+    "bpm": "150",
+    "artist": "ゆうゆ",
+    "jacket": "diva/61.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "Glory 3usi9",
+    "bpm": "140",
+    "artist": "ナノウ",
+    "jacket": "diva/740.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "みくみくにしてあげる♪【してやんよ】",
+    "name_translation": "I'll Miku-Miku You♪ (For Reals)",
+    "bpm": "160",
+    "artist": "ika_mo",
+    "jacket": "diva/28.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "エンヴィキャットウォーク",
+    "name_translation": "Envy Cat Walk",
+    "bpm": "160",
+    "artist": "トーマ",
+    "jacket": "diva/724.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 6,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 7.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "タイムマシン",
+    "name_translation": "Time Machine",
+    "bpm": "126",
+    "artist": "1640mP",
+    "jacket": "diva/612.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 1,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7.5,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "千本桜",
+    "name_translation": "Senbonzakura",
+    "bpm": "154",
+    "artist": "黒うさP",
+    "jacket": "diva/216.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 6.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "1/6 -out of the gravity-",
+    "bpm": "125",
+    "artist": "ぼーかりおどP(noa)",
+    "jacket": "diva/242.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "リンリンシグナル -Append Mix-",
+    "name_translation": "RinRin Signal -Append Mix-",
+    "bpm": "124",
+    "artist": "Dios/シグナルP",
+    "jacket": "diva/97.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 4,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 7,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "ハイハハイニ",
+    "name_translation": "Ashes to Ashes",
+    "bpm": "130",
+    "artist": "テンネン",
+    "jacket": "diva/613.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 1,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 8,
+        "style": "single"
+      },
+      {
+        "diffClass": "exextreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  },
+  {
+    "name": "おはヨーデル (Oha-Yo-del!!)",
+    "name_translation": "Oha-Yo-del!!",
+    "bpm": "175",
+    "artist": "爆弾ポピー",
+    "jacket": "diva/434.jpg",
+    "charts": [
+      {
+        "diffClass": "easy",
+        "lvl": 2,
+        "style": "single"
+      },
+      {
+        "diffClass": "normal",
+        "lvl": 3,
+        "style": "single"
+      },
+      {
+        "diffClass": "hard",
+        "lvl": 5.5,
+        "style": "single"
+      },
+      {
+        "diffClass": "extreme",
+        "lvl": 9,
+        "style": "single"
+      }
+    ]
+  }
+]
+
+}
