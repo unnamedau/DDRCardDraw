@@ -24,7 +24,8 @@
       }
     ],
     "flags": [
-      "mapunlock",
+      "wplusunlock",
+      "wacunlock",
       "swpunlock",
       "mwpunlock",
       "lwpunlock",
@@ -51,7 +52,7 @@
       "expert",
       "inferno"
     ],
-    "flags": [],
+    "flags": ["wacunlock", "swpunlock"],
     "lowerLvlBound": 2,
     "upperLvlBound": 15
   },
@@ -64,11 +65,12 @@
       "expert": "Expert",
       "inferno": "Inferno",
       "swpunlock": "WP Unlock (up to 5k WP)",
-      "mwpunlock": "WP Unlock (5001-9999 WP)",
-      "lwpunlock": "WP Unlock (10k WP and above)",
-      "mapunlock": "WP unlock from hard (no idea WP cost sorry)",
+      "mwpunlock": "WP Unlock (5001-10k WP)",
+      "lwpunlock": "WP Unlock (above 10k WP)",
+      "wplusunlock": "W+ hard unlock (14k/15k WP)",
+      "wacunlock": "Base game hard unlock (<=5k WP)",
       "gateunlock": "Requires Gate Unlock",
-      "hidden": "Hidden Inferno Unlock",
+      "hidden": "Hidden Unlock",
       "$abbr": {
         "normal": "NRM",
         "hard": "HRD",
@@ -1712,7 +1714,7 @@
           "author": "Marvelous",
           "style": "single",
           "flags": [
-            "lwpunlock"
+            "mwpunlock"
           ],
           "diffClass": "inferno"
         }
@@ -5629,7 +5631,7 @@
       "jacket": "wacca/1113fa97a84c5bc8970ceb90157bcd7214e3355d904ba64eeee7634ad6f449bd.png",
       "folder": "オリジナル",
       "flags": [
-        "swpunlock"
+        "wacunlock"
       ],
       "date_added": "2020-09-16",
       "charts": [
@@ -5660,7 +5662,7 @@
       "jacket": "wacca/3a998ed730b9b9a59a725b9481a6acb24342fbb0a5a98c1fb15f8aafb00dc048.png",
       "folder": "オリジナル",
       "flags": [
-        "swpunlock"
+        "wacunlock"
       ],
       "date_added": "2020-09-16",
       "charts": [
@@ -5691,7 +5693,7 @@
       "jacket": "wacca/d52af8dc27ecad5903bbb67ded3166242f07dd9bbd96de6fb453977b85e67a47.png",
       "folder": "TANO*C（オリジナル）",
       "flags": [
-        "swpunlock"
+        "wacunlock"
       ],
       "date_added": "2020-09-16",
       "charts": [
@@ -5722,7 +5724,7 @@
       "jacket": "wacca/f4852b3973216a9628660c9b5f64fe18876d5742cc9cfeb9b7611d4a768d8ae8.png",
       "folder": "TANO*C（オリジナル）",
       "flags": [
-        "swpunlock"
+        "wacunlock"
       ],
       "date_added": "2020-09-16",
       "charts": [
@@ -5753,7 +5755,7 @@
       "jacket": "wacca/cd3fb085a7706d3e8b5490b3389b800713d8e7b194f90ac5130060af2d5827e8.png",
       "folder": "TANO*C（オリジナル）",
       "flags": [
-        "swpunlock"
+        "wacunlock"
       ],
       "date_added": "2020-09-16",
       "charts": [
@@ -7204,7 +7206,7 @@
       "jacket": "wacca/ac261381f3399380cad798e2607cf5e8cdd9bee46cd496632476a0f4223d5f27.png",
       "folder": "TANO*C（オリジナル）",
       "flags": [
-        "swpunlock"
+        "wacunlock"
       ],
       "date_added": "2021-02-16",
       "charts": [
@@ -7235,7 +7237,7 @@
       "jacket": "wacca/6d8f5431a0581e7615aebece00f75154be37b5609e4f15e0442eee8da1e37597.png",
       "folder": "TANO*C（オリジナル）",
       "flags": [
-        "swpunlock"
+        "wacunlock"
       ],
       "date_added": "2021-02-16",
       "charts": [
@@ -7266,7 +7268,7 @@
       "jacket": "wacca/9a088e49971fe41c9b152e59bfc13a5346430ec6583b6b15444e1229a77170b5.png",
       "folder": "TANO*C（オリジナル）",
       "flags": [
-        "swpunlock"
+        "wacunlock"
       ],
       "date_added": "2021-02-16",
       "charts": [
@@ -7759,7 +7761,7 @@
       "jacket": "wacca/6bb9aa9501f623e5314f9360232de790b7884e07fba4268a813ededf99ee8dfb.png",
       "folder": "オリジナル",
       "flags": [
-        "swpunlock"
+        "wacunlock"
       ],
       "date_added": "2021-03-10",
       "charts": [
@@ -7790,7 +7792,7 @@
       "jacket": "wacca/c6aef61fa2501481c1bc1f85761e74e67d40ceea59b1514bd7b87d7075cba822.png",
       "folder": "オリジナル",
       "flags": [
-        "swpunlock"
+        "wacunlock"
       ],
       "date_added": "2021-03-10",
       "charts": [
@@ -7821,7 +7823,7 @@
       "jacket": "wacca/bc3200a18e39d76224075729cdbb012c08850e8236fdc583180e3840bd05c39d.png",
       "folder": "TANO*C（オリジナル）",
       "flags": [
-        "swpunlock"
+        "wacunlock"
       ],
       "date_added": "2021-03-10",
       "charts": [
@@ -7852,7 +7854,7 @@
       "jacket": "wacca/5d55dfeb21e6aa589e4b3e31cb8e5788f12e276d4266a241e8b96224d25ef935.png",
       "folder": "TANO*C（オリジナル）",
       "flags": [
-        "mwpunlock"
+        "wacunlock"
       ],
       "date_added": "2021-03-10",
       "charts": [
@@ -8803,7 +8805,7 @@
       "jacket": "wacca/58cbbaa8d29c7936af95bb27088c08a6f2156e83a42385f4b28539731ca16c35.png",
       "folder": "TANO*C（オリジナル）",
       "flags": [
-        "swpunlock"
+        "wacunlock"
       ],
       "date_added": "2021-07-13",
       "charts": [
@@ -8834,7 +8836,7 @@
       "jacket": "wacca/6b7dc7e3972e6a1fec1bf97a9c648a280132d28fb1163f36dd742a8d83bba849.png",
       "folder": "オリジナル",
       "flags": [
-        "swpunlock"
+        "wacunlock"
       ],
       "date_added": "2021-07-13",
       "charts": [
@@ -8865,7 +8867,7 @@
       "jacket": "wacca/3afce4c0b8feb273da8d498133d37a11e137c60b01e5723335bab07733980df9.png",
       "folder": "TANO*C（オリジナル）",
       "flags": [
-        "swpunlock"
+        "wacunlock"
       ],
       "date_added": "2021-07-13",
       "charts": [
@@ -8905,7 +8907,7 @@
       "jacket": "wacca/ed772b255b7968e315d9bd3fc59626a8c37a47aaee7846a0fb00588bbbf1160b.png",
       "folder": "TANO*C（オリジナル）",
       "flags": [
-        "swpunlock"
+        "wacunlock"
       ],
       "date_added": "2021-07-13",
       "charts": [
@@ -9225,7 +9227,7 @@
           "author": "Marvelous",
           "style": "single",
           "flags": [
-            "lwpunlock"
+            "mwpunlock"
           ],
           "diffClass": "inferno"
         }
@@ -9510,7 +9512,7 @@
       "jacket": "wacca/057348477eb69e9fe507270e528fe8ab6ffaba100408ab33cc84963437d6f2e3.png",
       "folder": "バラエティ",
       "flags": [
-        "swpunlock"
+        "wacunlock"
       ],
       "date_added": "2021-08-09",
       "charts": [
@@ -12247,7 +12249,7 @@
       "jacket": "wacca/S04/uT_J_S04_061.png",
       "folder": "オリジナル",
       "flags": [
-        "mapunlock"
+        "wplusunlock"
       ],
       "date_added": "2025-01-25",
       "charts": [
@@ -12668,7 +12670,7 @@
       "jacket": "wacca/S04/uT_J_S04_030.png",
       "folder": "オリジナル",
       "flags": [
-        "mapunlock"
+        "wplusunlock"
       ],
       "date_added": "2025-05-17",
       "charts": [
@@ -12708,7 +12710,7 @@
       "jacket": "wacca/S04/uT_J_S04_087.png",
       "folder": "オリジナル",
       "flags": [
-        "mapunlock"
+        "wplusunlock"
       ],
       "date_added": "2025-05-17",
       "charts": [
