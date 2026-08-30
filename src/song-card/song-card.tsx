@@ -113,6 +113,7 @@ export function SongCard(props: Props) {
     jacket,
     flags,
     dateAdded,
+    folder
   } = replacedWith || baseChartValues(chart);
 
   const hasLabel = !!(vetoedBy || protectedBy || replacedBy);
@@ -234,6 +235,9 @@ export function SongCard(props: Props) {
         </div>
         <div className={styles.dateAdded} title={dateAdded}>
           {dateAdded}
+        </div>
+        <div className={styles.folder} title={folder}>
+          {folder}
         </div>
       </div>
 
