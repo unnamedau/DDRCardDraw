@@ -4,11 +4,11 @@
     "menuParent": "more",
     "styles": ["single"],
     "difficulties": [
-      {"key": "easy", "color": "#2795ff"},
-      {"key": "normal","color": "#3ec053"},
-      {"key": "hard","color": "#e2e511"},
-      {"key": "oni","color": "#d42d1d"},
-      {"key": "ura","color": "#7d45fe"}
+      {"key": "easy", "color": "#FF2703"},
+      {"key": "normal","color": "#647E2F"},
+      {"key": "hard","color": "#364938"},
+      {"key": "oni","color": "#DB1885"},
+      {"key": "ura","color": "#7135DB"}
     ],
     "folders": [
       "Pop",
