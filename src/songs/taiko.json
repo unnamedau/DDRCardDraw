@@ -21,6 +21,7 @@
       "Classical"
     ],
     "flags": ["limited"],
+    "granularTierResolution": 10,
     "lastUpdated": 	1788027833
   },
   "defaults": {
@@ -75,7 +76,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -162,7 +164,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -254,7 +257,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -312,7 +316,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -341,7 +346,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -404,7 +410,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -433,7 +440,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.70
         }
       ]
     },
@@ -462,7 +470,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -491,7 +500,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -520,7 +530,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -549,7 +560,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -723,7 +735,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -781,7 +794,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -1100,12 +1114,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -1168,7 +1184,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -1202,7 +1219,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -1350,7 +1368,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -1437,12 +1456,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -1645,7 +1666,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -1674,7 +1696,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -1790,7 +1813,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -1819,12 +1843,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -1858,7 +1884,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -1916,12 +1943,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -2071,7 +2100,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -2158,7 +2188,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -2187,7 +2218,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -2337,7 +2369,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -2366,12 +2399,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -2400,7 +2435,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -2429,7 +2465,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -2521,7 +2558,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -2579,7 +2617,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -2637,7 +2676,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -2671,7 +2711,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -2700,7 +2741,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -2816,7 +2858,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -2903,7 +2946,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -2937,7 +2981,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -2966,12 +3011,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.80
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.80
         }
       ]
     },
@@ -3000,7 +3047,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -3174,7 +3222,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -3203,7 +3252,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -3353,7 +3403,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -3411,7 +3462,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -3445,7 +3497,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -3479,7 +3532,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -3624,7 +3678,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -3692,7 +3747,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -3750,7 +3806,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -3808,12 +3865,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -3876,7 +3935,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -3934,7 +3994,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -3968,7 +4029,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -4031,7 +4093,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -4060,12 +4123,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -4152,7 +4217,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.70
         }
       ]
     },
@@ -4210,7 +4276,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -4302,7 +4369,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -4331,7 +4399,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -4360,7 +4429,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -4389,12 +4459,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -4452,7 +4524,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -4486,7 +4559,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -4515,7 +4589,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -4544,12 +4619,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         },
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -4578,7 +4655,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -4665,7 +4743,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -4815,7 +4894,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -4844,12 +4924,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -4883,7 +4965,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -5086,7 +5169,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -5173,7 +5257,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -5231,12 +5316,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -5294,7 +5381,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -5328,7 +5416,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -5362,7 +5451,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -5391,7 +5481,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -5449,7 +5540,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -5691,7 +5783,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -5778,7 +5871,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -5899,7 +5993,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.70
         }
       ]
     },
@@ -5957,7 +6052,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -5986,7 +6082,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -6020,7 +6117,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -6170,7 +6268,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -6294,7 +6393,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -6323,7 +6423,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -6357,7 +6458,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -6444,7 +6546,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.10
         }
       ]
     },
@@ -6473,12 +6576,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         },
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -6512,7 +6617,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -6546,7 +6652,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -6750,7 +6857,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -6866,12 +6974,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -6968,7 +7078,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -7026,7 +7137,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.10
         }
       ]
     },
@@ -7495,7 +7607,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -7529,7 +7642,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.70
         }
       ]
     },
@@ -7558,7 +7672,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -7829,7 +7944,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -7892,7 +8008,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.70
         }
       ]
     },
@@ -7921,7 +8038,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -8008,7 +8126,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -8037,7 +8156,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.90
         }
       ]
     },
@@ -8095,7 +8215,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -8327,7 +8448,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -8390,7 +8512,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -8419,7 +8542,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -8477,7 +8601,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -8593,7 +8718,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -8622,7 +8748,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -8656,7 +8783,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -8685,7 +8813,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -8714,7 +8843,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -8743,7 +8873,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -8772,12 +8903,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -8835,7 +8968,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.10
         }
       ]
     },
@@ -8893,7 +9027,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -8990,7 +9125,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -9051,12 +9187,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.10
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.10
         }
       ]
     },
@@ -9085,7 +9223,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -9143,7 +9282,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.70
         }
       ]
     },
@@ -9375,7 +9515,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -9433,7 +9574,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -9520,7 +9662,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -9549,7 +9692,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -9578,7 +9722,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.80
         }
       ]
     },
@@ -9665,7 +9810,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -9723,12 +9869,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -9757,12 +9905,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -9791,7 +9941,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -9825,7 +9976,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -9888,7 +10040,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.10
         }
       ]
     },
@@ -9951,7 +10104,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -9980,7 +10134,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -10038,7 +10193,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -10096,7 +10252,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -10159,7 +10316,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -10251,7 +10409,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -10280,7 +10439,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -10309,7 +10469,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -10367,7 +10528,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.10
         }
       ]
     },
@@ -10488,12 +10650,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -10551,7 +10715,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -10667,7 +10832,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -10696,7 +10862,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -10730,7 +10897,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -10875,7 +11043,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -10933,7 +11102,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -10962,7 +11132,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -11078,7 +11249,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -11146,7 +11318,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -11175,7 +11348,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -11204,7 +11378,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -11233,12 +11408,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.75
         }
       ]
     },
@@ -11267,7 +11444,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -11325,7 +11503,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -11383,7 +11562,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -11528,7 +11708,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -11557,7 +11738,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -11586,7 +11768,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.90
         }
       ]
     },
@@ -11615,7 +11798,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -11765,7 +11949,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -11794,7 +11979,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -11910,7 +12096,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -12104,7 +12291,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -12167,7 +12355,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -12254,7 +12443,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -12346,7 +12536,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -12462,7 +12653,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -12496,7 +12688,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -12525,7 +12718,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -12554,7 +12748,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -12583,7 +12778,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.80
         }
       ]
     },
@@ -12617,7 +12813,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -12680,7 +12877,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -12714,7 +12912,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -12777,7 +12976,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -12835,7 +13035,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -12864,7 +13065,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -12951,7 +13153,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -12980,7 +13183,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.80
         }
       ]
     },
@@ -13009,12 +13213,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -13048,7 +13254,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -13106,7 +13313,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -13164,7 +13372,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -13193,7 +13402,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -13338,12 +13548,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -13372,7 +13584,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -13406,7 +13619,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -13696,7 +13910,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -13725,7 +13940,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -13822,7 +14038,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -13880,7 +14097,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.80
         }
       ]
     },
@@ -13938,7 +14156,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -14083,7 +14302,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -14112,7 +14332,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -14141,7 +14362,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -14170,7 +14392,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -14199,7 +14422,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -14228,7 +14452,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -14257,7 +14482,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -14286,7 +14512,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -14315,7 +14542,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -14344,7 +14572,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -14373,7 +14602,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -14402,7 +14632,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -14460,12 +14691,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         },
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -14499,7 +14732,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -14705,7 +14939,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -14763,7 +14998,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -14792,7 +15028,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -14821,7 +15058,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -14850,7 +15088,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -14879,7 +15118,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -14913,7 +15153,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -15145,7 +15386,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -15203,7 +15445,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -15232,7 +15475,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -15348,7 +15592,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.10
         }
       ]
     },
@@ -15469,7 +15714,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -15498,7 +15744,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.80
         }
       ]
     },
@@ -15527,7 +15774,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -15556,7 +15804,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -15585,7 +15834,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -15672,7 +15922,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.10
         }
       ]
     },
@@ -15701,7 +15952,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -15730,7 +15982,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -15759,7 +16012,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -15788,7 +16042,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.10
         }
       ]
     },
@@ -15851,7 +16106,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -15885,7 +16141,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -15914,7 +16171,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -15948,7 +16206,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -15977,7 +16236,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -16035,7 +16295,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -16098,7 +16359,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -16156,7 +16418,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -16214,7 +16477,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -16277,7 +16541,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -16335,7 +16600,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -16369,7 +16635,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -16427,7 +16694,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -16490,7 +16758,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -16519,7 +16788,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -16577,7 +16847,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -16606,12 +16877,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -16640,7 +16913,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -16669,7 +16943,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -16698,7 +16973,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -16790,7 +17066,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -16877,7 +17154,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.10
         }
       ]
     },
@@ -16906,7 +17184,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -16935,7 +17214,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -16964,7 +17244,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -16993,12 +17274,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -17027,7 +17310,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -17056,7 +17340,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -17293,7 +17578,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -17322,7 +17608,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -17351,7 +17638,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.10
         }
       ]
     },
@@ -17380,12 +17668,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -17419,7 +17709,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -17448,7 +17739,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -17477,7 +17769,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -17506,12 +17799,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.80
         }
       ]
     },
@@ -17540,7 +17835,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -17569,7 +17865,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -17598,7 +17895,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -17685,7 +17983,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -17748,7 +18047,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -17835,7 +18135,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -17869,7 +18170,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -17903,7 +18205,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -17932,7 +18235,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -17961,7 +18265,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -17990,7 +18295,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -18019,7 +18325,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -18053,7 +18360,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -18082,7 +18390,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -18111,7 +18420,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -18140,7 +18450,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -18169,7 +18480,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -18198,7 +18510,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -18227,7 +18540,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -18256,7 +18570,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.70
         }
       ]
     },
@@ -18285,7 +18600,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -18372,7 +18688,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -18401,7 +18718,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -18430,7 +18748,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -18459,7 +18778,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -18488,7 +18808,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -18517,7 +18838,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -18546,7 +18868,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -18575,7 +18898,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -18604,7 +18928,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -18633,7 +18958,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -18662,7 +18988,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -18696,7 +19023,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -18754,7 +19082,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -18783,12 +19112,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -18817,12 +19148,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         },
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -18851,7 +19184,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -18880,7 +19214,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -18909,7 +19244,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -18938,7 +19274,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -18967,7 +19304,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -19054,7 +19392,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -19083,7 +19422,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -19112,7 +19452,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -19233,7 +19574,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -19267,7 +19609,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -19296,7 +19639,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -19325,7 +19669,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -19383,7 +19728,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -19441,7 +19787,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -19475,7 +19822,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -19504,7 +19852,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -19657,7 +20006,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -19686,7 +20036,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -19715,12 +20066,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -19749,7 +20102,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -19778,7 +20132,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -19807,12 +20162,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.70
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -19841,7 +20198,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -19899,7 +20257,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -19991,7 +20350,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -20083,7 +20443,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -20112,12 +20473,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.80
         }
       ]
     },
@@ -20146,7 +20509,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -20209,7 +20573,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -20238,7 +20603,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -20267,12 +20633,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -20301,7 +20669,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -20330,7 +20699,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.90
         }
       ]
     },
@@ -20359,7 +20729,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -20388,7 +20759,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -20417,7 +20789,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -20475,12 +20848,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.75
         }
       ]
     },
@@ -20509,7 +20884,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -20538,7 +20914,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.75
         }
       ]
     },
@@ -20567,7 +20944,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -20596,7 +20974,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -20654,7 +21033,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -20712,12 +21092,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -20746,7 +21128,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -20775,12 +21158,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.80
         }
       ]
     },
@@ -20925,7 +21310,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -20954,7 +21340,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -21012,12 +21399,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -21109,7 +21498,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -21196,7 +21586,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -21254,7 +21645,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -21341,7 +21733,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -21404,7 +21797,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -21588,7 +21982,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -21617,7 +22012,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -21646,7 +22042,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -21733,7 +22130,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -21767,7 +22165,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -21825,7 +22224,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.70
         }
       ]
     },
@@ -21941,7 +22341,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -21975,7 +22376,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -22154,7 +22556,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -22183,7 +22586,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -22212,7 +22616,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.10
         }
       ]
     },
@@ -22241,7 +22646,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -22270,7 +22676,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -22299,7 +22706,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -22328,7 +22736,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -22357,7 +22766,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -22386,7 +22796,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -22449,7 +22860,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -22478,7 +22890,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -22507,7 +22920,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -22594,7 +23008,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -22739,7 +23154,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.70
         }
       ]
     },
@@ -22831,7 +23247,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.70
         }
       ]
     },
@@ -22860,7 +23277,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -22889,12 +23307,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.90
         }
       ]
     },
@@ -22923,7 +23343,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -22986,12 +23407,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -23020,12 +23443,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -23059,7 +23484,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.90
         }
       ]
     },
@@ -23088,7 +23514,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -23146,7 +23573,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -23204,7 +23632,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -23233,7 +23662,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -23291,7 +23721,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -23320,7 +23751,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -23349,12 +23781,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -23441,7 +23875,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -23470,7 +23905,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -23499,7 +23935,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -23586,7 +24023,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -23620,7 +24058,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -23649,7 +24088,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -23823,7 +24263,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -23881,7 +24322,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -23910,12 +24352,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.90
         }
       ]
     },
@@ -23944,7 +24388,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.70
         }
       ]
     },
@@ -24007,7 +24452,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -24065,7 +24511,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -24094,7 +24541,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -24326,12 +24774,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -24360,7 +24810,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -24418,7 +24869,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -24510,7 +24962,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.10
         }
       ]
     },
@@ -24573,7 +25026,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -24694,7 +25148,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -24786,7 +25241,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -24820,7 +25276,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.80
         }
       ]
     },
@@ -24854,7 +25311,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -24917,7 +25375,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -24975,7 +25434,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -25004,7 +25464,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -25033,7 +25494,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.75
         }
       ]
     },
@@ -25062,7 +25524,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -25091,12 +25554,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.90
         }
       ]
     },
@@ -25154,7 +25619,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -25183,7 +25649,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -25212,12 +25679,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.90
         }
       ]
     },
@@ -25246,7 +25715,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -25275,7 +25745,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -25304,7 +25775,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.70
         }
       ]
     },
@@ -25333,12 +25805,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.75
         }
       ]
     },
@@ -25425,7 +25899,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -25459,7 +25934,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.70
         }
       ]
     },
@@ -25522,7 +25998,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -25580,7 +26057,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -25609,12 +26087,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         },
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -25643,7 +26123,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -25672,7 +26153,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -25730,7 +26212,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -25759,12 +26242,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.80
         }
       ]
     },
@@ -25885,7 +26370,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -25943,12 +26429,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.75
         }
       ]
     },
@@ -25982,7 +26470,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -26045,7 +26534,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -26108,7 +26598,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -26137,7 +26628,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -26287,7 +26779,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -26321,7 +26814,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -26379,7 +26873,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -26413,7 +26908,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -26442,7 +26938,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -26500,7 +26997,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -26558,7 +27056,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -26766,7 +27265,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -26882,12 +27382,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.75
         }
       ]
     },
@@ -26916,12 +27418,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -26950,12 +27454,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.80
         }
       ]
     },
@@ -27071,12 +27577,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.90
         }
       ]
     },
@@ -27202,7 +27710,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -27231,7 +27740,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -27318,7 +27828,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -27410,7 +27921,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -27444,7 +27956,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.10
         }
       ]
     },
@@ -27473,12 +27986,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -27507,12 +28022,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -27541,7 +28058,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -27609,7 +28127,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -27725,7 +28244,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -27783,7 +28303,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -27817,7 +28338,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -27846,7 +28368,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.10
         }
       ]
     },
@@ -27875,7 +28398,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -27991,7 +28515,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -28049,7 +28574,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -28078,7 +28604,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -28112,7 +28639,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -28170,7 +28698,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -28204,7 +28733,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -28233,7 +28763,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.80
         }
       ]
     },
@@ -28262,7 +28793,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -28610,7 +29142,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -28905,7 +29438,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.75
         }
       ]
     },
@@ -28939,7 +29473,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -28968,7 +29503,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -29060,7 +29596,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -29205,7 +29742,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -29234,7 +29772,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -29355,7 +29894,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -29389,7 +29929,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -29418,12 +29959,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.70
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.75
         }
       ]
     },
@@ -29452,12 +29995,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.80
         }
       ]
     },
@@ -29520,7 +30065,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -29554,7 +30100,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -29588,7 +30135,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -29685,12 +30233,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.90
         }
       ]
     },
@@ -29748,7 +30298,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -29835,7 +30386,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -29893,7 +30445,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -29922,12 +30475,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -29956,7 +30511,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.75
         }
       ]
     },
@@ -29990,7 +30546,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -30024,7 +30581,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -30169,7 +30727,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -30198,7 +30757,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -30227,7 +30787,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -30285,12 +30846,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.80
         }
       ]
     },
@@ -30353,7 +30916,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -30469,7 +31033,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -30503,7 +31068,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -30532,7 +31098,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -30619,7 +31186,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -30648,7 +31216,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -30706,7 +31275,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -30735,12 +31305,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -30774,7 +31346,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -30866,7 +31439,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -31016,7 +31590,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -31050,7 +31625,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -31108,12 +31684,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.75
         }
       ]
     },
@@ -31171,7 +31749,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.90
         }
       ]
     },
@@ -31200,7 +31779,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -31698,7 +32278,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -31727,7 +32308,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -31940,7 +32522,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.70
         }
       ]
     },
@@ -31969,7 +32552,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -32027,7 +32611,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -32056,12 +32641,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -32095,7 +32682,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -32129,7 +32717,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.75
         }
       ]
     },
@@ -32163,7 +32752,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -32342,7 +32932,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -32371,12 +32962,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.70
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -32405,12 +32998,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.80
         }
       ]
     },
@@ -32439,12 +33034,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -32502,7 +33099,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -32560,7 +33158,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -32589,7 +33188,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -32652,7 +33252,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -32681,7 +33282,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -32710,12 +33312,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.75
         }
       ]
     },
@@ -32976,7 +33580,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -33131,7 +33736,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.70
         }
       ]
     },
@@ -33165,7 +33771,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -33194,7 +33801,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -33223,7 +33831,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -33252,7 +33861,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -33310,7 +33920,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.90
         }
       ]
     },
@@ -33339,7 +33950,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -33368,7 +33980,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.60
         }
       ]
     },
@@ -33402,7 +34015,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -33431,7 +34045,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -33460,7 +34075,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -33489,7 +34105,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -33518,12 +34135,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.10
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -33726,12 +34345,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -33760,7 +34381,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -33794,7 +34416,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.20
         }
       ]
     },
@@ -33823,7 +34446,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -33852,7 +34476,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -33881,7 +34506,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.80
         }
       ]
     },
@@ -33910,12 +34536,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.75
         }
       ]
     },
@@ -33949,7 +34577,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -34036,7 +34665,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -34065,7 +34695,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -34094,12 +34725,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -34128,7 +34761,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.40
         }
       ]
     },
@@ -34162,7 +34796,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.10
         }
       ]
     },
@@ -34191,7 +34826,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -34220,7 +34856,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -34312,7 +34949,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -34346,7 +34984,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -34409,7 +35048,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.10
         }
       ]
     },
@@ -34438,12 +35078,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -34477,7 +35119,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.75
         }
       ]
     },
@@ -34511,7 +35154,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -34540,7 +35184,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -34569,7 +35214,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     },
@@ -34743,7 +35389,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -34830,7 +35477,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.30
         }
       ]
     },
@@ -34859,7 +35507,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -34888,7 +35537,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.75
         }
       ]
     },
@@ -35033,12 +35683,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.70
         }
       ]
     },
@@ -35072,7 +35724,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -35101,12 +35754,14 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -35222,7 +35877,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -35256,7 +35912,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.90
         }
       ]
     },
@@ -35314,7 +35971,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.70
         }
       ]
     },
@@ -35406,7 +36064,8 @@
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.50
         }
       ]
     },
@@ -35464,7 +36123,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.60
         }
       ]
     },
@@ -35551,7 +36211,8 @@
         {
           "lvl": 9,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -35643,7 +36304,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.50
         }
       ]
     },
@@ -35909,7 +36571,8 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.20
         }
       ]
     },
@@ -35977,7 +36640,8 @@
         {
           "lvl": 9,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 9.30
         }
       ]
     },
@@ -36006,12 +36670,14 @@
         {
           "lvl": 10,
           "diffClass": "oni",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.10
         },
         {
           "lvl": 10,
           "diffClass": "ura",
-          "style": "single"
+          "style": "single",
+          "sanbaiTier": 10.40
         }
       ]
     }
