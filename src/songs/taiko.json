@@ -20,7 +20,7 @@
       "Variety",
       "Classical"
     ],
-    "flags": ["limited"],
+    "flags": ["limited", "medalshop"],
     "granularTierResolution": 10,
     "lastUpdated": 	1788027833
   },
@@ -41,6 +41,7 @@
       "oni": "Oni",
       "ura": "Ura",
       "limited": "Limited time",
+      "medalshop": "Don Medal Shop unlock",
       "$abbr": {
         "easy": "EZ",
         "normal": "NRM",
@@ -3174,6 +3175,7 @@
       "artist": "no artist listed",
       "jacket": "taiko.png",
       "folder": "Game Music",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 4,
@@ -16370,6 +16372,7 @@
       "artist": "no artist listed",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 5,
@@ -31542,6 +31545,7 @@
       "artist": "Yoshihito(BNSI) feat. Kinta",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 4,
@@ -31571,6 +31575,7 @@
       "artist": "Tadahiko Yokogawa feat. Yako from Danchinomiya",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 4,
@@ -31601,6 +31606,7 @@
       "artist": "Hisui",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 4,
@@ -31636,6 +31642,7 @@
       "artist": "Masako Ogami & Yasunori Matsuya feat. Erika Kaiho",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 4,
@@ -32533,6 +32540,7 @@
       "artist": "Syuri Misaki(BNSI) feat. Yako from Danchinomiya",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 4,
@@ -32563,6 +32571,7 @@
       "artist": "\"Metcha! Taiko no Tatsujin DS: Nanatsuno Shimano Daibouken\"  Theme Song",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 3,
@@ -32592,6 +32601,7 @@
       "artist": "no artist listed",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 4,
@@ -32622,6 +32632,7 @@
       "artist": "Laur",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 5,
@@ -33051,6 +33062,7 @@
       "artist": "ICHIRO MIZUKI・MITSUKO HORIE・HIRONOBU KAGEYAMA \"Taiko no Tatsujin: Tobikkiri! Anime Special\"Theme Song",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 4,
@@ -33080,6 +33092,7 @@
       "artist": "no artist listed",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 3,
@@ -33110,6 +33123,7 @@
       "artist": "Hisui & GIW feat. Yua Miyuki x Erika Koyama",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 3,
@@ -33782,6 +33796,7 @@
       "artist": "Yuichiro Tsukagoshi(NanosizeMir) and GIW feat. Kaori Aihara",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 4,
@@ -33812,6 +33827,7 @@
       "artist": "MOES feat. Erika Kaiho",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 4,
@@ -33842,6 +33858,7 @@
       "artist": "no artist listed",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 4,
@@ -33872,6 +33889,7 @@
       "artist": "Kawagen Kollagen(BNSI) feat. yuzuki",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 3,
@@ -34326,6 +34344,7 @@
       "artist": "BlackY",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 4,
@@ -34362,6 +34381,7 @@
       "artist": "no artist listed",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 4,
@@ -34392,6 +34412,7 @@
       "artist": "no artist listed",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 4,
@@ -34427,6 +34448,7 @@
       "artist": "no artist listed",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 5,
@@ -34742,6 +34764,7 @@
       "artist": "Bonjour Suzuki feat. Yuichiro Tsukagoshi(NanosizeMir) and GIW",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 4,
@@ -34772,6 +34795,7 @@
       "artist": "~Live Version~",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 3,
@@ -34807,6 +34831,7 @@
       "artist": "SEIFU-MEIGETSU(Drop x Yura Hatsuki)",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 3,
@@ -35888,6 +35913,7 @@
       "artist": "MisoilePunch♪",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 5,
@@ -35923,6 +35949,7 @@
       "artist": "no artist listed",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 4,
@@ -35952,6 +35979,7 @@
       "artist": "Sampling Masters MEGA",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 4,
@@ -35982,6 +36010,7 @@
       "artist": "no artist listed",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["medalshop"],
       "charts": [
         {
           "lvl": 4,
