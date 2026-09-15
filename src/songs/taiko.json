@@ -20,7 +20,7 @@
       "Variety",
       "Classical"
     ],
-    "flags": ["limited", "medalshop"],
+    "flags": ["limited", "medalshop", "souuchi"],
     "granularTierResolution": 10,
     "lastUpdated": 	1788027833
   },
@@ -21811,6 +21811,7 @@
       "artist": "ドラマ「逃げるは恥だが役に立つ」より",
       "jacket": "taiko.png",
       "folder": "Pop",
+      "flags": ["souuchi"],
       "charts": [
         {
           "lvl": 2,
@@ -21845,6 +21846,7 @@
       "artist": "Xeami",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["souuchi"],
       "charts": [
         {
           "lvl": 5,
@@ -21874,6 +21876,7 @@
       "artist": "no artist listed",
       "jacket": "taiko.png",
       "folder": "Kids",
+      "flags": ["souuchi"],
       "charts": [
         {
           "lvl": 2,
@@ -21908,6 +21911,7 @@
       "artist": "From \" MUSIC GUNGUN! 2 \"",
       "jacket": "taiko.png",
       "folder": "Game Music",
+      "flags": ["souuchi"],
       "charts": [
         {
           "lvl": 2,
@@ -21937,6 +21941,7 @@
       "artist": "From \" MUSIC GUNGUN! 2 \"",
       "jacket": "taiko.png",
       "folder": "Game Music",
+      "flags": ["souuchi"],
       "charts": [
         {
           "lvl": 3,
@@ -36104,6 +36109,7 @@
       "artist": "~Twilight Laurel~",
       "jacket": "taiko.png",
       "folder": "NAMCO Original",
+      "flags": ["souuchi"],
       "charts": [
         {
           "lvl": 3,
